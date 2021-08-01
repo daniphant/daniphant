@@ -8,7 +8,7 @@ const daniphant = {
     frontEnd: ["React.js", "Next.js", "TailwindCSS"],
     backEnd: ["Node.js", "Deno", "MySQL", "PostgreSQL", "Mongo"],
     mobile: ["React Native", "Flutter"],
-    misc: ["Firebase", "Docker", "Nginx"],
+    misc: ["Firebase", "Docker", "Nginx", "Git", "Figma"],
   },
   currentFocus: "Mobile development",
 };
