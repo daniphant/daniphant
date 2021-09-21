@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Python for Machine Learning and Data Science
 - 👯 I’m looking to collaborate on freelance projects
 - ⚡ I’m a workaholic
-- 🎮 I’m currently playing Genshin Impact in my spare time
+- 🎮 I play Genshin Impact in my spare time
 - 📺 I’m currently watching Lucifer (no spoilers pls)
 
 <br>
