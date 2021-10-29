@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Python for Machine Learning and Data Science
 - 👯 I’m looking to collaborate on freelance projects
 - ⚡ I’m a workaholic
-- 📺 I’m currently watching Lucifer (no spoilers pls)
+- 📺 I’m currently rewatching Bojack Horseman
 
 <br>
 
