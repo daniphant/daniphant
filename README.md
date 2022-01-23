@@ -8,11 +8,10 @@
 
 **Learn More About Me:**
 
-- 🔭 I’m currently working on a React Native application
-- 🌱 I’m currently learning Python for Machine Learning and Data Science
+- 🔭 I’m currently working on many Node.js projects
+- 🌱 I’m currently learning TDD and domain driven design
 - 👯 I’m looking to collaborate on freelance projects
-- ⚡ I’m a workaholic
-- 📺 I’m currently rewatching Bojack Horseman
+- 📺 I just finished watching Arcane and would recommend it to everyone
 
 <br>
 
