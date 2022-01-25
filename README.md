@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on many Node.js projects
 - 🌱 I’m currently learning TDD and domain driven design
-- 👯 I’m looking to collaborate on freelance projects
+- 👯 I’m looking to collaborate on freelance projects and connect with new people
 - 📺 I just finished watching Arcane and would recommend it to everyone
 
 <br>
