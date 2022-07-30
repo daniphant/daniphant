@@ -2,16 +2,7 @@
 
 <br>
 
-<div style="text-align: justify"> I am a software engineer in the ever-lasting pursuance of knowledge and challenges to help me grow -- always in the process of becoming. At work, I always love to help colleagues with their problems and come up with solutions as a team. Some of my hobbies include recreational programming, tabletop games, learning more about space, and hanging out with my cats.</div>
-
-<br>
-
-**Learn More About Me:**
-
-- 🔭 I’m currently working on many Node.js projects
-- 🌱 I’m currently learning TDD and domain driven design
-- 👯 I’m looking to collaborate on freelance projects and connect with new people
-- 📺 I just finished watching Arcane and would recommend it to everyone
+<div style="text-align: justify">20 year old software engineer living that concrete jungle lifestyle.</div>
 
 <br>
 
