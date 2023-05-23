@@ -10,6 +10,10 @@
 
 <br>
 
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daniphant&theme=radical&hide=issues&count_private=true" alt="daniphant's github stats" /></a>
- </div>
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=daniphant&theme=radical&hide=issues&count_private=true" alt="daniphant's github stats" />
+  </a>
+  <img src="https://placekitten.com/200/300" alt="Random Cat">
+</div>
+
