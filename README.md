@@ -1,6 +1,6 @@
 # hey, i'm dani 👻
 
-fullstack engineer — currently deep in **ai**, **design systems**, and making **dx** feel less painful.
+fullstack engineer going deep into **harness engineering**, **design systems**, and making **dx** feel less painful.
 
 half-ghost by username, full stargazer by nature.
 
